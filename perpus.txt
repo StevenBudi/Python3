@@ -1,0 +1,5 @@
+M04|Alo|Belajar Adobe Premiere|2019-12-19|2019-12-26
+M05|Ej|Belajar Masak|2019-12-19|2019-12-26
+M01|Seno|Belajar Pemrograman Python|2019-12-19|2019-12-26
+M02|Jono|Belajar Pemrograman Java|2019-12-19|2019-12-26
+M03|Garuda|Belajar CorelDraw X9|2019-12-19|2019-12-26

@@ -1,0 +1,6 @@
+K3518001|Amir|Solo
+K3518002|Budi|Semarang
+K3518003|Cici|Jakarta
+K3519076|Steven|Semarang
+K3519078|Otong|Tegal
+K3518075|Jono|Cina
